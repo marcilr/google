@@ -11,4 +11,5 @@ Links
 Google Linux Software Repositories
 The Linux Package Signing Keys
 Google’s Linux packages are signed with GNU Privacy Guard (GPG) keys.
+In theory could pull down chrome or such from a repo.
 https://www.google.com/linuxrepositories/
