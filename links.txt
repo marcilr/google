@@ -1,0 +1,14 @@
+links.txt
+Created Wed May  8 08:38:01 AKDT 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Google related links
+
+
+Links
+=====
+Google Linux Software Repositories
+The Linux Package Signing Keys
+Google’s Linux packages are signed with GNU Privacy Guard (GPG) keys.
+https://www.google.com/linuxrepositories/
